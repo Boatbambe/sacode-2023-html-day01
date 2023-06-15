@@ -8,3 +8,4 @@ https://sacode.web.id/
 https://instagram.com/sacode.official
 
 ## Demo project Day 01
+https://boatbambe.github.io/sacode-2023-html-day01/
